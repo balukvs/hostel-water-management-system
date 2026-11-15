@@ -205,3 +205,5 @@ The dataset covers a **93-calendar-day academic semester** (August 10, 2026 to N
 | **Can your anomaly detection algorithm confirm a water leak?** | No. A machine learning model detects statistical divergence, not physical plumbing cracks. A spike can stem from an athletic fest or hostel party. Therefore, our model classifies alerts as *"Potential anomaly — inspection recommended"*. |
 | **How do you calculate unaccounted water?** | Using the Water Balance equation: $\text{Unaccounted} = (\text{Borewell} + \text{Tanker}) - \Delta\text{Storage} - \text{Metered Draw}$. If inflow exceeds consumption and tank accumulation, the delta points to distribution losses. |
 | **Why did Random Forest outperform Linear Regression?** | Hostel water consumption involves non-linear step functions (e.g. weekend occupancy drops by $20\%$ while individual LPCD rises by $10\%$). Decision tree splits naturally handle these interaction branches better than a linear slope. |
+# hostel-water-management-system
+Smart Hostel Water Management System using Data Science and Machine Learning

@@ -109,9 +109,9 @@ hostel_water_management/
 │   └── processed/
 │
 ├── docs/
-│   ├── final_project_report.md
+│   ├── Smart_Hostel_Water_Management_Project_Report.pdf
 │   ├── project_documentation.md
-│   └── presentation_deck_outline.md
+│   
 │
 ├── eda/
 │

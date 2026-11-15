@@ -2,9 +2,9 @@
 
 ## 1. Project Background & System Description
 Hostel residential blocks accommodate dense student populations with dynamic water demands:
-- **Block A:** 774 residents | Dedicated Borewell ($14,000\text{ L/hr}$) | Storage Capacity: $150,000\text{ L}$
-- **Block B:** 760 residents | Dedicated Borewell ($13,500\text{ L/hr}$) | Storage Capacity: $150,000\text{ L}$
-- **Block C:** 600 residents | Dedicated Borewell ($12,000\text{ L/hr}$) | Storage Capacity: $120,000\text{ L}$
+- **ashwatha:** 774 residents | Dedicated Borewell ($14,000\text{ L/hr}$) | Storage Capacity: $150,000\text{ L}$
+- **ashoka:** 760 residents | Dedicated Borewell ($13,500\text{ L/hr}$) | Storage Capacity: $150,000\text{ L}$
+- **jasmine:** 600 residents | Dedicated Borewell ($12,000\text{ L/hr}$) | Storage Capacity: $120,000\text{ L}$
 - **Total Campus Hostel Population:** **2,134 Students**
 
 ---

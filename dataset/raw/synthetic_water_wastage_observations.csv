@@ -1,0 +1,280 @@
+Date,Block,Overflow_Observed,Leakage_Observed,Estimated_Loss_Litres,Maintenance_Remarks,Data_Source
+2026-08-10,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-11,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-12,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-13,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-14,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-15,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-16,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-17,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-18,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-19,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-20,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-21,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-22,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-23,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-24,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-25,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-26,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-27,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-28,Aswatha (Boys Hostel),No,Yes,18000,Subsurface pipe fracture suspected between riser and wing A2,SYNTHETIC_SIMULATION
+2026-08-29,Aswatha (Boys Hostel),No,Yes,18000,Subsurface pipe fracture suspected between riser and wing A2,SYNTHETIC_SIMULATION
+2026-08-30,Aswatha (Boys Hostel),No,Yes,18000,Subsurface pipe fracture suspected between riser and wing A2,SYNTHETIC_SIMULATION
+2026-08-31,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-01,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-02,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-03,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-04,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-05,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-06,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-07,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-08,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-09,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-10,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-11,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-12,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-13,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-14,Aswatha (Boys Hostel),No,No,0,Borewell motor tripped; emergency tankers requisitioned,SYNTHETIC_SIMULATION
+2026-09-15,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-16,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-17,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-18,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-19,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-20,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-21,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-22,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-23,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-24,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-25,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-26,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-27,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-28,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-29,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-30,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-01,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-02,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-03,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-04,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-05,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-06,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-07,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-08,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-09,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-10,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-11,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-12,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-13,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-14,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-15,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-16,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-17,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-18,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-19,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-20,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-21,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-22,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-23,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-24,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-25,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-26,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-27,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-28,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-29,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-30,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-31,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-01,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-02,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-03,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-04,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-05,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-06,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-07,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-08,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-09,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-10,Aswatha (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-10,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-11,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-12,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-13,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-14,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-15,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-16,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-17,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-18,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-19,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-20,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-21,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-22,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-23,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-24,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-25,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-26,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-27,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-28,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-29,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-30,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-31,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-01,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-02,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-03,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-04,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-05,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-06,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-07,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-08,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-09,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-10,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-11,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-12,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-13,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-14,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-15,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-16,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-17,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-18,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-19,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-20,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-21,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-22,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-23,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-24,Ashoka (Boys Hostel),Yes,No,14500,Overhead tank float valve stuck open; overflow to storm drain,SYNTHETIC_SIMULATION
+2026-09-25,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-26,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-27,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-28,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-29,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-30,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-01,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-02,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-03,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-04,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-05,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-06,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-07,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-08,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-09,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-10,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-11,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-12,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-13,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-14,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-15,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-16,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-17,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-18,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-19,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-20,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-21,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-22,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-23,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-24,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-25,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-26,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-27,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-28,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-29,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-30,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-31,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-01,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-02,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-03,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-04,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-05,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-06,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-07,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-08,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-09,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-10,Ashoka (Boys Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-10,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-11,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-12,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-13,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-14,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-15,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-16,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-17,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-18,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-19,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-20,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-21,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-22,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-23,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-24,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-25,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-26,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-27,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-28,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-29,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-30,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-08-31,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-01,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-02,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-03,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-04,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-05,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-06,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-07,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-08,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-09,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-10,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-11,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-12,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-13,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-14,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-15,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-16,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-17,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-18,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-19,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-20,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-21,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-22,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-23,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-24,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-25,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-09-26,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-27,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-28,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-29,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-09-30,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-01,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-02,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-03,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-04,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-05,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-06,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-07,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-08,Jasmine (Girls Hostel),No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION
+2026-10-09,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-10,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-11,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-12,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-13,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-14,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-15,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-16,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-17,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-18,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-19,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-20,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-21,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-22,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-23,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-24,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-25,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-26,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-27,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-28,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-10-29,Jasmine (Girls Hostel),No,Yes,7000,Defective dual-flush siphon valves reported across floor 2,SYNTHETIC_SIMULATION
+2026-10-30,Jasmine (Girls Hostel),No,Yes,7000,Defective dual-flush siphon valves reported across floor 2,SYNTHETIC_SIMULATION
+2026-10-31,Jasmine (Girls Hostel),No,Yes,7000,Defective dual-flush siphon valves reported across floor 2,SYNTHETIC_SIMULATION
+2026-11-01,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-02,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-03,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-04,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-05,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-06,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-07,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-08,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-09,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION
+2026-11-10,Jasmine (Girls Hostel),No,No,0,Normal daily operation,SYNTHETIC_SIMULATION

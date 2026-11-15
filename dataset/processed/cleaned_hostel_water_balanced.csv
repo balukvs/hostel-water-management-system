@@ -1,0 +1,280 @@
+Date,Block,Student_Occupancy,Borewell_Pumping_Hours,Borewell_Water_Supplied_Litres,Tanker_Water_Supplied_Litres,Total_Water_Supplied_Litres,Starting_Tank_Level,Ending_Tank_Level,Water_Consumed_Litres,Per_Capita_Consumption_LPCD,Storage_Change_Litres,Unaccounted_Water_Litres,Overflow_Observed,Leakage_Observed,Estimated_Loss_Litres,Maintenance_Remarks,Data_Source,Day_Of_Week,Day_Name,Is_Weekend,Month,Month_Name,Day_Of_Month,Calculated_Total_Supplied
+2026-08-10,Aswatha (Boys Hostel),752,7.4,103600,0,103600,97500,98106,102994,136.96,606,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,10,103600
+2026-08-11,Aswatha (Boys Hostel),736,6.4,89600,0,89600,98106,90288,97418,132.36,-7818,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,11,89600
+2026-08-12,Aswatha (Boys Hostel),762,7.7,107800,0,107800,90288,93334,104754,137.47,3046,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,12,107800
+2026-08-13,Aswatha (Boys Hostel),729,7.5,105000,0,105000,93334,100530,97804,134.16,7196,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,13,105000
+2026-08-14,Aswatha (Boys Hostel),729,7.6,106400,0,106400,100530,108304,98626,135.29,7774,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,8,August,14,106400
+2026-08-15,Aswatha (Boys Hostel),623,6.9,96600,0,96600,108304,115517,89387,143.48,7213,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,8,August,15,96600
+2026-08-16,Aswatha (Boys Hostel),643,7.0,98000,0,98000,115517,115232,98285,152.85,-285,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,8,August,16,98000
+2026-08-17,Aswatha (Boys Hostel),755,7.3,102200,0,102200,115232,118196,99236,131.44,2964,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,17,102200
+2026-08-18,Aswatha (Boys Hostel),765,7.4,103600,0,103600,118196,120925,100871,131.86,2729,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,18,103600
+2026-08-19,Aswatha (Boys Hostel),731,6.7,93800,0,93800,120925,114643,100082,136.91,-6282,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,19,93800
+2026-08-20,Aswatha (Boys Hostel),759,6.7,93800,0,93800,114643,108093,100350,132.21,-6550,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,20,93800
+2026-08-21,Aswatha (Boys Hostel),765,7.4,103600,0,103600,108093,113451,98242,128.42,5358,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,8,August,21,103600
+2026-08-22,Aswatha (Boys Hostel),645,5.6,78400,0,78400,113451,105921,85930,133.22,-7530,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,8,August,22,78400
+2026-08-23,Aswatha (Boys Hostel),625,6.2,86800,0,86800,105921,104294,88427,141.48,-1627,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,8,August,23,86800
+2026-08-24,Aswatha (Boys Hostel),736,7.1,99400,0,99400,104294,106174,97520,132.5,1880,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,24,99400
+2026-08-25,Aswatha (Boys Hostel),737,7.4,103600,0,103600,106174,109358,100416,136.25,3184,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,25,103600
+2026-08-26,Aswatha (Boys Hostel),752,7.3,102200,0,102200,109358,113930,97628,129.82,4572,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,26,102200
+2026-08-27,Aswatha (Boys Hostel),736,7.9,110600,0,110600,113930,127562,96968,131.75,13632,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,27,110600
+2026-08-28,Aswatha (Boys Hostel),753,8.3,116200,12000,128200,127562,139398,98364,130.63,11836,0,No,Yes,18000,"Subsurface pipe fracture; loss precisely audited at 18,000 L",SYNTHETIC_SIMULATION,4,Friday,0,8,August,28,128200
+2026-08-29,Aswatha (Boys Hostel),593,8.1,113400,12000,125400,139398,150000,82826,139.67,10602,0,No,Yes,31972,"Subsurface pipe fracture; loss precisely audited at 31,972 L",SYNTHETIC_SIMULATION,5,Saturday,1,8,August,29,125400
+2026-08-30,Aswatha (Boys Hostel),657,8.3,116200,12000,128200,150000,150000,90088,137.12,0,0,No,Yes,38112,"Subsurface pipe fracture; loss precisely audited at 38,112 L",SYNTHETIC_SIMULATION,6,Sunday,1,8,August,30,128200
+2026-08-31,Aswatha (Boys Hostel),760,7.0,98000,0,98000,150000,150000,97344,128.08,0,0,Yes,No,656,Minor tank vent overflow spillage audited at 656 L,SYNTHETIC_SIMULATION,0,Monday,0,8,August,31,98000
+2026-09-01,Aswatha (Boys Hostel),729,6.6,92400,0,92400,150000,148037,94363,129.44,-1963,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,1,92400
+2026-09-02,Aswatha (Boys Hostel),736,7.9,110600,0,110600,148037,150000,100551,136.62,1963,0,Yes,No,8086,"Tank capacity reached; overflow to storm drain audited at 8,086 L",SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,2,110600
+2026-09-03,Aswatha (Boys Hostel),740,6.6,92400,0,92400,150000,146636,95764,129.41,-3364,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,3,92400
+2026-09-04,Aswatha (Boys Hostel),763,6.7,93800,0,93800,146636,142129,98307,128.84,-4507,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,4,93800
+2026-09-05,Aswatha (Boys Hostel),600,5.8,81200,0,81200,142129,137407,85922,143.2,-4722,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,5,81200
+2026-09-06,Aswatha (Boys Hostel),626,6.6,92400,0,92400,137407,142018,87789,140.24,4611,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,6,92400
+2026-09-07,Aswatha (Boys Hostel),736,7.3,102200,0,102200,142018,148555,95663,129.98,6537,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,9,September,7,102200
+2026-09-08,Aswatha (Boys Hostel),731,7.1,99400,0,99400,148555,150000,97156,132.91,1445,0,Yes,No,799,Minor tank vent overflow spillage audited at 799 L,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,8,99400
+2026-09-09,Aswatha (Boys Hostel),752,7.3,102200,0,102200,150000,150000,100545,133.7,0,0,Yes,No,1655,"Tank capacity reached; overflow to storm drain audited at 1,655 L",SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,9,102200
+2026-09-10,Aswatha (Boys Hostel),730,5.7,79800,0,79800,150000,136400,93400,127.95,-13600,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,10,79800
+2026-09-11,Aswatha (Boys Hostel),748,8.5,119000,0,119000,136400,147477,107923,144.28,11077,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,11,119000
+2026-09-12,Aswatha (Boys Hostel),581,5.7,79800,0,79800,147477,146026,81251,139.85,-1451,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,12,79800
+2026-09-13,Aswatha (Boys Hostel),622,5.9,82600,0,82600,146026,145854,82772,133.07,-172,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,13,82600
+2026-09-14,Aswatha (Boys Hostel),732,0.0,0,48000,48000,145854,91289,102565,140.12,-54565,0,No,No,0,Borewell motor tripped; emergency tankers requisitioned,SYNTHETIC_SIMULATION,0,Monday,0,9,September,14,48000
+2026-09-15,Aswatha (Boys Hostel),744,6.7,93800,0,93800,91289,94975,90114,121.12,3686,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,15,93800
+2026-09-16,Aswatha (Boys Hostel),761,7.7,107800,0,107800,94975,101939,100836,132.5,6964,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,16,107800
+2026-09-17,Aswatha (Boys Hostel),734,7.0,98000,0,98000,101939,95987,103952,141.62,-5952,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,17,98000
+2026-09-18,Aswatha (Boys Hostel),739,6.4,89600,0,89600,95987,90553,95034,128.6,-5434,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,18,89600
+2026-09-19,Aswatha (Boys Hostel),592,5.5,77000,0,77000,90553,83142,84411,142.59,-7411,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,19,77000
+2026-09-20,Aswatha (Boys Hostel),641,6.5,91000,0,91000,83142,83248,90894,141.8,106,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,20,91000
+2026-09-21,Aswatha (Boys Hostel),740,7.7,107800,0,107800,83248,84179,106869,144.42,931,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,9,September,21,107800
+2026-09-22,Aswatha (Boys Hostel),762,7.1,99400,0,99400,84179,80630,102949,135.1,-3549,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,22,99400
+2026-09-23,Aswatha (Boys Hostel),730,6.7,93800,0,93800,80630,70968,103462,141.73,-9662,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,23,93800
+2026-09-24,Aswatha (Boys Hostel),731,6.9,96600,0,96600,70968,71724,95844,131.11,756,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,24,96600
+2026-09-25,Aswatha (Boys Hostel),757,7.0,98000,0,98000,71724,68846,100878,133.26,-2878,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,25,98000
+2026-09-26,Aswatha (Boys Hostel),617,6.0,84000,0,84000,68846,67996,84850,137.52,-850,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,26,84000
+2026-09-27,Aswatha (Boys Hostel),648,6.5,91000,0,91000,67996,69356,89640,138.33,1360,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,27,91000
+2026-09-28,Aswatha (Boys Hostel),748,6.8,95200,0,95200,69356,65387,99169,132.58,-3969,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,9,September,28,95200
+2026-09-29,Aswatha (Boys Hostel),740,7.4,103600,0,103600,65387,65209,103778,140.24,-178,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,29,103600
+2026-09-30,Aswatha (Boys Hostel),745,6.9,96600,0,96600,65209,64604,97205,130.48,-605,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,30,96600
+2026-10-01,Aswatha (Boys Hostel),736,7.3,102200,0,102200,64604,71493,95311,129.5,6889,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,1,102200
+2026-10-02,Aswatha (Boys Hostel),736,7.2,100800,0,100800,71493,74142,98151,133.36,2649,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,10,October,2,100800
+2026-10-03,Aswatha (Boys Hostel),629,7.3,102200,0,102200,74142,85943,90399,143.72,11801,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,3,102200
+2026-10-04,Aswatha (Boys Hostel),647,6.9,96600,0,96600,85943,88086,94457,145.99,2143,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,10,October,4,96600
+2026-10-05,Aswatha (Boys Hostel),774,9.8,137200,0,137200,88086,90369,134917,174.31,2283,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,10,October,5,137200
+2026-10-06,Aswatha (Boys Hostel),774,8.9,124600,0,124600,90369,87461,127508,164.74,-2908,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,6,124600
+2026-10-07,Aswatha (Boys Hostel),774,9.4,131600,0,131600,87461,83422,135639,175.24,-4039,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,7,131600
+2026-10-08,Aswatha (Boys Hostel),731,6.9,96600,0,96600,83422,86281,93741,128.24,2859,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,8,96600
+2026-10-09,Aswatha (Boys Hostel),746,6.4,89600,0,89600,86281,77394,98487,132.02,-8887,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,10,October,9,89600
+2026-10-10,Aswatha (Boys Hostel),657,7.1,99400,0,99400,77394,80240,96554,146.96,2846,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,10,99400
+2026-10-11,Aswatha (Boys Hostel),607,6.1,85400,0,85400,80240,77668,87972,144.93,-2572,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,10,October,11,85400
+2026-10-12,Aswatha (Boys Hostel),735,6.9,96600,0,96600,77668,80161,94107,128.04,2493,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,10,October,12,96600
+2026-10-13,Aswatha (Boys Hostel),738,7.9,110600,0,110600,80161,92597,98164,133.01,12436,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,13,110600
+2026-10-14,Aswatha (Boys Hostel),186,3.5,49000,0,49000,92597,117144,24453,131.47,24547,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,14,49000
+2026-10-15,Aswatha (Boys Hostel),185,3.3,46200,0,46200,117144,136666,26678,144.21,19522,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,15,46200
+2026-10-16,Aswatha (Boys Hostel),148,3.5,49000,0,49000,136666,150000,19173,129.55,13334,0,Yes,No,16493,"Tank capacity reached; unmetered vacation overflow audited at 16,493 L",SYNTHETIC_SIMULATION,4,Friday,0,10,October,16,49000
+2026-10-17,Aswatha (Boys Hostel),142,4.3,60200,0,60200,150000,150000,18371,129.37,0,0,Yes,No,41829,"Tank capacity reached; unmetered vacation overflow audited at 41,829 L",SYNTHETIC_SIMULATION,5,Saturday,1,10,October,17,60200
+2026-10-18,Aswatha (Boys Hostel),182,3.6,50400,0,50400,150000,150000,24744,135.96,0,0,Yes,No,25656,"Tank capacity reached; unmetered vacation overflow audited at 25,656 L",SYNTHETIC_SIMULATION,6,Sunday,1,10,October,18,50400
+2026-10-19,Aswatha (Boys Hostel),193,3.3,46200,0,46200,150000,150000,24226,125.52,0,0,Yes,No,21974,"Tank capacity reached; unmetered vacation overflow audited at 21,974 L",SYNTHETIC_SIMULATION,0,Monday,0,10,October,19,46200
+2026-10-20,Aswatha (Boys Hostel),734,7.8,109200,0,109200,150000,150000,94827,129.19,0,0,Yes,No,14373,"Tank capacity reached; unmetered vacation overflow audited at 14,373 L",SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,20,109200
+2026-10-21,Aswatha (Boys Hostel),750,6.5,91000,0,91000,150000,147258,93742,124.99,-2742,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,21,91000
+2026-10-22,Aswatha (Boys Hostel),730,6.4,89600,0,89600,147258,143494,93364,127.9,-3764,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,22,89600
+2026-10-23,Aswatha (Boys Hostel),761,8.5,119000,0,119000,143494,150000,106533,139.99,6506,0,Yes,No,5961,"Tank capacity reached; overflow to storm drain audited at 5,961 L",SYNTHETIC_SIMULATION,4,Friday,0,10,October,23,119000
+2026-10-24,Aswatha (Boys Hostel),587,6.6,92400,0,92400,150000,150000,85212,145.17,0,0,Yes,No,7188,"Tank capacity reached; overflow to storm drain audited at 7,188 L",SYNTHETIC_SIMULATION,5,Saturday,1,10,October,24,92400
+2026-10-25,Aswatha (Boys Hostel),633,6.6,92400,0,92400,150000,150000,90064,142.28,0,0,Yes,No,2336,"Tank capacity reached; overflow to storm drain audited at 2,336 L",SYNTHETIC_SIMULATION,6,Sunday,1,10,October,25,92400
+2026-10-26,Aswatha (Boys Hostel),762,7.8,109200,0,109200,150000,150000,101468,133.16,0,0,Yes,No,7732,"Tank capacity reached; overflow to storm drain audited at 7,732 L",SYNTHETIC_SIMULATION,0,Monday,0,10,October,26,109200
+2026-10-27,Aswatha (Boys Hostel),752,7.1,99400,0,99400,150000,150000,95666,127.22,0,0,Yes,No,3734,"Tank capacity reached; overflow to storm drain audited at 3,734 L",SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,27,99400
+2026-10-28,Aswatha (Boys Hostel),748,7.2,100800,0,100800,150000,148998,101802,136.1,-1002,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,28,100800
+2026-10-29,Aswatha (Boys Hostel),755,7.6,106400,0,106400,148998,150000,100684,133.36,1002,0,Yes,No,4714,"Tank capacity reached; overflow to storm drain audited at 4,714 L",SYNTHETIC_SIMULATION,3,Thursday,0,10,October,29,106400
+2026-10-30,Aswatha (Boys Hostel),754,7.4,103600,0,103600,150000,150000,99266,131.65,0,0,Yes,No,4334,"Tank capacity reached; overflow to storm drain audited at 4,334 L",SYNTHETIC_SIMULATION,4,Friday,0,10,October,30,103600
+2026-10-31,Aswatha (Boys Hostel),639,6.9,96600,0,96600,150000,150000,94550,147.97,0,0,Yes,No,2050,"Tank capacity reached; overflow to storm drain audited at 2,050 L",SYNTHETIC_SIMULATION,5,Saturday,1,10,October,31,96600
+2026-11-01,Aswatha (Boys Hostel),658,6.8,95200,0,95200,150000,150000,94976,144.34,0,0,Yes,No,224,Minor tank vent overflow spillage audited at 224 L,SYNTHETIC_SIMULATION,6,Sunday,1,11,November,1,95200
+2026-11-02,Aswatha (Boys Hostel),736,7.9,110600,0,110600,150000,150000,97071,131.89,0,0,Yes,No,13529,"Tank capacity reached; unmetered vacation overflow audited at 13,529 L",SYNTHETIC_SIMULATION,0,Monday,0,11,November,2,110600
+2026-11-03,Aswatha (Boys Hostel),762,7.2,100800,0,100800,150000,146798,104002,136.49,-3202,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,11,November,3,100800
+2026-11-04,Aswatha (Boys Hostel),734,6.6,92400,0,92400,146798,138702,100496,136.92,-8096,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,11,November,4,92400
+2026-11-05,Aswatha (Boys Hostel),751,7.5,105000,0,105000,138702,138366,105336,140.26,-336,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,11,November,5,105000
+2026-11-06,Aswatha (Boys Hostel),728,6.7,93800,0,93800,138366,134085,98081,134.73,-4281,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,11,November,6,93800
+2026-11-07,Aswatha (Boys Hostel),632,6.5,91000,0,91000,134085,133453,91632,144.99,-632,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,11,November,7,91000
+2026-11-08,Aswatha (Boys Hostel),589,6.5,91000,0,91000,133453,137306,87147,147.96,3853,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,11,November,8,91000
+2026-11-09,Aswatha (Boys Hostel),738,6.3,88200,0,88200,137306,131993,93513,126.71,-5313,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,11,November,9,88200
+2026-11-10,Aswatha (Boys Hostel),735,6.6,92400,0,92400,131993,128551,95842,130.4,-3442,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,11,November,10,92400
+2026-08-10,Ashoka (Boys Hostel),733,7.2,97200,0,97200,97500,91338,103362,141.01,-6162,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,10,97200
+2026-08-11,Ashoka (Boys Hostel),718,7.0,94500,0,94500,91338,92907,92931,129.43,1569,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,11,94500
+2026-08-12,Ashoka (Boys Hostel),715,6.5,87750,0,87750,92907,84889,95768,133.94,-8018,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,12,87750
+2026-08-13,Ashoka (Boys Hostel),724,6.6,89100,0,89100,84889,77950,96039,132.65,-6939,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,13,89100
+2026-08-14,Ashoka (Boys Hostel),731,7.3,98550,0,98550,77950,77834,98666,134.97,-116,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,8,August,14,98550
+2026-08-15,Ashoka (Boys Hostel),637,6.7,90450,0,90450,77834,73878,94406,148.2,-3956,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,8,August,15,90450
+2026-08-16,Ashoka (Boys Hostel),633,6.4,86400,0,86400,73878,72260,88018,139.05,-1618,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,8,August,16,86400
+2026-08-17,Ashoka (Boys Hostel),719,7.7,103950,0,103950,72260,83338,92872,129.17,11078,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,17,103950
+2026-08-18,Ashoka (Boys Hostel),745,7.1,95850,0,95850,83338,74992,104196,139.86,-8346,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,18,95850
+2026-08-19,Ashoka (Boys Hostel),722,7.3,98550,0,98550,74992,77511,96031,133.01,2519,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,19,98550
+2026-08-20,Ashoka (Boys Hostel),744,7.3,98550,0,98550,77511,74273,101788,136.81,-3238,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,20,98550
+2026-08-21,Ashoka (Boys Hostel),738,8.4,113400,0,113400,74273,84718,102955,139.51,10445,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,8,August,21,113400
+2026-08-22,Ashoka (Boys Hostel),636,7.1,95850,0,95850,84718,83371,97197,152.83,-1347,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,8,August,22,95850
+2026-08-23,Ashoka (Boys Hostel),637,7.3,98550,0,98550,83371,85300,96621,151.68,1929,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,8,August,23,98550
+2026-08-24,Ashoka (Boys Hostel),727,7.3,98550,0,98550,85300,81223,102627,141.17,-4077,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,24,98550
+2026-08-25,Ashoka (Boys Hostel),747,7.1,95850,0,95850,81223,76626,100447,134.47,-4597,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,25,95850
+2026-08-26,Ashoka (Boys Hostel),744,8.3,112050,0,112050,76626,83853,104823,140.89,7227,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,26,112050
+2026-08-27,Ashoka (Boys Hostel),747,8.2,110700,0,110700,83853,94016,100537,134.59,10163,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,27,110700
+2026-08-28,Ashoka (Boys Hostel),732,7.7,103950,0,103950,94016,102826,95140,129.97,8810,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,8,August,28,103950
+2026-08-29,Ashoka (Boys Hostel),587,6.4,86400,0,86400,102826,103590,85636,145.89,764,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,8,August,29,86400
+2026-08-30,Ashoka (Boys Hostel),595,5.9,79650,0,79650,103590,92615,90625,152.31,-10975,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,8,August,30,79650
+2026-08-31,Ashoka (Boys Hostel),725,6.7,90450,0,90450,92615,88948,94117,129.82,-3667,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,31,90450
+2026-09-01,Ashoka (Boys Hostel),752,6.6,89100,0,89100,88948,86702,91346,121.47,-2246,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,1,89100
+2026-09-02,Ashoka (Boys Hostel),719,7.2,97200,0,97200,86702,86059,97843,136.08,-643,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,2,97200
+2026-09-03,Ashoka (Boys Hostel),751,7.6,102600,0,102600,86059,88951,99708,132.77,2892,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,3,102600
+2026-09-04,Ashoka (Boys Hostel),731,6.8,91800,0,91800,88951,83954,96797,132.42,-4997,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,4,91800
+2026-09-05,Ashoka (Boys Hostel),616,6.2,83700,0,83700,83954,83818,83836,136.1,-136,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,5,83700
+2026-09-06,Ashoka (Boys Hostel),614,7.1,95850,0,95850,83818,92652,87016,141.72,8834,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,6,95850
+2026-09-07,Ashoka (Boys Hostel),714,7.1,95850,0,95850,92652,89577,98925,138.55,-3075,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,9,September,7,95850
+2026-09-08,Ashoka (Boys Hostel),742,6.7,90450,0,90450,89577,81621,98406,132.62,-7956,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,8,90450
+2026-09-09,Ashoka (Boys Hostel),728,7.8,105300,0,105300,81621,85231,101690,139.68,3610,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,9,105300
+2026-09-10,Ashoka (Boys Hostel),727,7.7,103950,0,103950,85231,95248,93933,129.21,10017,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,10,103950
+2026-09-11,Ashoka (Boys Hostel),742,7.6,102600,0,102600,95248,100154,97694,131.66,4906,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,11,102600
+2026-09-12,Ashoka (Boys Hostel),601,6.3,85050,0,85050,100154,102331,82873,137.89,2177,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,12,85050
+2026-09-13,Ashoka (Boys Hostel),580,6.0,81000,0,81000,102331,108224,75107,129.49,5893,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,13,81000
+2026-09-14,Ashoka (Boys Hostel),740,7.3,98550,0,98550,108224,104163,102611,138.66,-4061,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,9,September,14,98550
+2026-09-15,Ashoka (Boys Hostel),726,7.1,95850,0,95850,104163,103554,96459,132.86,-609,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,15,95850
+2026-09-16,Ashoka (Boys Hostel),725,7.0,94500,0,94500,103554,105948,92106,127.04,2394,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,16,94500
+2026-09-17,Ashoka (Boys Hostel),739,7.1,95850,0,95850,105948,107407,94391,127.73,1459,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,17,95850
+2026-09-18,Ashoka (Boys Hostel),723,6.7,90450,0,90450,107407,109366,88491,122.39,1959,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,18,90450
+2026-09-19,Ashoka (Boys Hostel),630,6.8,91800,0,91800,109366,110937,90229,143.22,1571,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,19,91800
+2026-09-20,Ashoka (Boys Hostel),609,6.0,81000,0,81000,110937,107674,84263,138.36,-3263,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,20,81000
+2026-09-21,Ashoka (Boys Hostel),746,6.8,91800,0,91800,107674,100216,99258,133.05,-7458,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,9,September,21,91800
+2026-09-22,Ashoka (Boys Hostel),723,7.2,97200,0,97200,100216,101004,96412,133.35,788,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,22,97200
+2026-09-23,Ashoka (Boys Hostel),724,6.7,90450,0,90450,101004,102124,89330,123.38,1120,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,23,90450
+2026-09-24,Ashoka (Boys Hostel),717,9.8,132300,0,132300,102124,128904,91020,126.95,26780,0,Yes,No,14500,"Overhead tank float valve overflow; audited at 14,500 L",SYNTHETIC_SIMULATION,3,Thursday,0,9,September,24,132300
+2026-09-25,Ashoka (Boys Hostel),722,7.2,97200,0,97200,128904,127472,98632,136.61,-1432,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,25,97200
+2026-09-26,Ashoka (Boys Hostel),589,5.9,79650,0,79650,127472,127379,79743,135.39,-93,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,26,79650
+2026-09-27,Ashoka (Boys Hostel),627,6.6,89100,0,89100,127379,127775,88704,141.47,396,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,27,89100
+2026-09-28,Ashoka (Boys Hostel),731,7.5,101250,0,101250,127775,133524,95501,130.64,5749,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,9,September,28,101250
+2026-09-29,Ashoka (Boys Hostel),734,8.1,109350,0,109350,133524,136996,105878,144.25,3472,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,29,109350
+2026-09-30,Ashoka (Boys Hostel),747,6.7,90450,0,90450,136996,127217,100229,134.18,-9779,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,30,90450
+2026-10-01,Ashoka (Boys Hostel),740,8.0,108000,0,108000,127217,135000,100217,135.43,7783,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,1,108000
+2026-10-02,Ashoka (Boys Hostel),751,7.8,105300,0,105300,135000,140801,99499,132.49,5801,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,10,October,2,105300
+2026-10-03,Ashoka (Boys Hostel),625,5.6,75600,0,75600,140801,130907,85494,136.79,-9894,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,3,75600
+2026-10-04,Ashoka (Boys Hostel),612,6.9,93150,0,93150,130907,137361,86696,141.66,6454,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,10,October,4,93150
+2026-10-05,Ashoka (Boys Hostel),760,9.3,125550,0,125550,137361,137581,125330,164.91,220,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,10,October,5,125550
+2026-10-06,Ashoka (Boys Hostel),760,10.2,137700,0,137700,137581,138808,136473,179.57,1227,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,6,137700
+2026-10-07,Ashoka (Boys Hostel),760,9.2,124200,0,124200,138808,139049,123959,163.1,241,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,7,124200
+2026-10-08,Ashoka (Boys Hostel),725,7.2,97200,0,97200,139049,138385,97864,134.98,-664,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,8,97200
+2026-10-09,Ashoka (Boys Hostel),735,7.7,103950,0,103950,138385,141384,100951,137.35,2999,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,10,October,9,103950
+2026-10-10,Ashoka (Boys Hostel),623,6.7,90450,0,90450,141384,141297,90537,145.32,-87,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,10,90450
+2026-10-11,Ashoka (Boys Hostel),601,5.8,78300,0,78300,141297,135520,84077,139.9,-5777,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,10,October,11,78300
+2026-10-12,Ashoka (Boys Hostel),722,6.3,85050,0,85050,135520,125534,95036,131.63,-9986,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,10,October,12,85050
+2026-10-13,Ashoka (Boys Hostel),737,7.3,98550,0,98550,125534,122219,101865,138.22,-3315,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,13,98550
+2026-10-14,Ashoka (Boys Hostel),157,3.9,52650,0,52650,122219,150000,19423,123.71,27781,0,Yes,No,5446,"Tank capacity reached; overflow to storm drain audited at 5,446 L",SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,14,52650
+2026-10-15,Ashoka (Boys Hostel),182,3.9,52650,0,52650,150000,150000,24237,133.17,0,0,Yes,No,28413,"Tank capacity reached; unmetered vacation overflow audited at 28,413 L",SYNTHETIC_SIMULATION,3,Thursday,0,10,October,15,52650
+2026-10-16,Ashoka (Boys Hostel),166,3.3,44550,0,44550,150000,150000,21828,131.49,0,0,Yes,No,22722,"Tank capacity reached; unmetered vacation overflow audited at 22,722 L",SYNTHETIC_SIMULATION,4,Friday,0,10,October,16,44550
+2026-10-17,Ashoka (Boys Hostel),160,3.9,52650,0,52650,150000,150000,22311,139.44,0,0,Yes,No,30339,"Tank capacity reached; unmetered vacation overflow audited at 30,339 L",SYNTHETIC_SIMULATION,5,Saturday,1,10,October,17,52650
+2026-10-18,Ashoka (Boys Hostel),158,3.7,49950,0,49950,150000,150000,22592,142.99,0,0,Yes,No,27358,"Tank capacity reached; unmetered vacation overflow audited at 27,358 L",SYNTHETIC_SIMULATION,6,Sunday,1,10,October,18,49950
+2026-10-19,Ashoka (Boys Hostel),170,3.9,52650,0,52650,150000,150000,23431,137.83,0,0,Yes,No,29219,"Tank capacity reached; unmetered vacation overflow audited at 29,219 L",SYNTHETIC_SIMULATION,0,Monday,0,10,October,19,52650
+2026-10-20,Ashoka (Boys Hostel),736,7.9,106650,0,106650,150000,150000,98509,133.84,0,0,Yes,No,8141,"Tank capacity reached; overflow to storm drain audited at 8,141 L",SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,20,106650
+2026-10-21,Ashoka (Boys Hostel),720,7.0,94500,0,94500,150000,147865,96635,134.22,-2135,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,21,94500
+2026-10-22,Ashoka (Boys Hostel),729,7.3,98550,0,98550,147865,149179,97236,133.38,1314,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,22,98550
+2026-10-23,Ashoka (Boys Hostel),743,7.1,95850,0,95850,149179,143000,102029,137.32,-6179,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,10,October,23,95850
+2026-10-24,Ashoka (Boys Hostel),633,7.0,94500,0,94500,143000,143247,94253,148.9,247,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,24,94500
+2026-10-25,Ashoka (Boys Hostel),571,4.4,59400,0,59400,143247,120149,82498,144.48,-23098,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,10,October,25,59400
+2026-10-26,Ashoka (Boys Hostel),728,6.5,87750,0,87750,120149,114922,92977,127.72,-5227,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,10,October,26,87750
+2026-10-27,Ashoka (Boys Hostel),739,6.9,93150,0,93150,114922,115000,93072,125.94,78,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,27,93150
+2026-10-28,Ashoka (Boys Hostel),722,6.7,90450,0,90450,115000,118246,87204,120.78,3246,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,28,90450
+2026-10-29,Ashoka (Boys Hostel),719,6.9,93150,0,93150,118246,115505,95891,133.37,-2741,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,29,93150
+2026-10-30,Ashoka (Boys Hostel),723,6.6,89100,0,89100,115505,112520,92085,127.37,-2985,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,10,October,30,89100
+2026-10-31,Ashoka (Boys Hostel),583,5.2,70200,0,70200,112520,105605,77115,132.27,-6915,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,31,70200
+2026-11-01,Ashoka (Boys Hostel),579,6.3,85050,0,85050,105605,112036,78619,135.78,6431,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,11,November,1,85050
+2026-11-02,Ashoka (Boys Hostel),719,6.8,91800,0,91800,112036,116639,87197,121.28,4603,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,11,November,2,91800
+2026-11-03,Ashoka (Boys Hostel),740,7.7,103950,0,103950,116639,121655,98934,133.69,5016,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,11,November,3,103950
+2026-11-04,Ashoka (Boys Hostel),742,7.8,105300,0,105300,121655,129238,97717,131.69,7583,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,11,November,4,105300
+2026-11-05,Ashoka (Boys Hostel),738,8.0,108000,0,108000,129238,136486,100752,136.52,7248,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,11,November,5,108000
+2026-11-06,Ashoka (Boys Hostel),747,7.5,101250,0,101250,136486,134545,103191,138.14,-1941,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,11,November,6,101250
+2026-11-07,Ashoka (Boys Hostel),645,6.8,91800,0,91800,134545,135915,90430,140.2,1370,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,11,November,7,91800
+2026-11-08,Ashoka (Boys Hostel),603,5.8,78300,0,78300,135915,131860,82355,136.58,-4055,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,11,November,8,78300
+2026-11-09,Ashoka (Boys Hostel),727,7.8,105300,0,105300,131860,137333,99827,137.31,5473,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,11,November,9,105300
+2026-11-10,Ashoka (Boys Hostel),718,7.2,97200,0,97200,137333,144448,90085,125.47,7115,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,11,November,10,97200
+2026-08-10,Jasmine (Girls Hostel),589,6.3,75600,0,75600,78000,76284,77316,131.27,-1716,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,10,75600
+2026-08-11,Jasmine (Girls Hostel),586,6.6,79200,0,79200,76284,80567,74917,127.84,4283,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,11,79200
+2026-08-12,Jasmine (Girls Hostel),588,6.0,72000,0,72000,80567,74865,77702,132.15,-5702,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,12,72000
+2026-08-13,Jasmine (Girls Hostel),577,6.3,75600,0,75600,74865,74512,75953,131.63,-353,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,13,75600
+2026-08-14,Jasmine (Girls Hostel),590,6.4,76800,0,76800,74512,75158,76154,129.07,646,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,8,August,14,76800
+2026-08-15,Jasmine (Girls Hostel),503,5.9,70800,0,70800,75158,75655,70303,139.77,497,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,8,August,15,70800
+2026-08-16,Jasmine (Girls Hostel),487,6.0,72000,0,72000,75655,75237,72418,148.7,-418,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,8,August,16,72000
+2026-08-17,Jasmine (Girls Hostel),590,6.7,80400,0,80400,75237,76676,78961,133.83,1439,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,17,80400
+2026-08-18,Jasmine (Girls Hostel),588,6.2,74400,0,74400,76676,71025,80051,136.14,-5651,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,18,74400
+2026-08-19,Jasmine (Girls Hostel),585,6.9,82800,0,82800,71025,70938,82887,141.69,-87,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,19,82800
+2026-08-20,Jasmine (Girls Hostel),592,7.1,85200,0,85200,70938,76985,79153,133.7,6047,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,20,85200
+2026-08-21,Jasmine (Girls Hostel),579,6.6,79200,0,79200,76985,76811,79374,137.09,-174,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,8,August,21,79200
+2026-08-22,Jasmine (Girls Hostel),489,4.7,56400,0,56400,76811,68261,64950,132.82,-8550,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,8,August,22,56400
+2026-08-23,Jasmine (Girls Hostel),456,5.5,66000,0,66000,68261,69229,65032,142.61,968,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,8,August,23,66000
+2026-08-24,Jasmine (Girls Hostel),573,6.3,75600,0,75600,69229,64294,80535,140.55,-4935,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,24,75600
+2026-08-25,Jasmine (Girls Hostel),580,5.7,68400,0,68400,64294,57164,75530,130.22,-7130,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,8,August,25,68400
+2026-08-26,Jasmine (Girls Hostel),574,6.4,76800,0,76800,57164,55479,78485,136.73,-1685,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,8,August,26,76800
+2026-08-27,Jasmine (Girls Hostel),572,6.3,75600,0,75600,55479,57178,73901,129.2,1699,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,8,August,27,75600
+2026-08-28,Jasmine (Girls Hostel),568,5.7,68400,0,68400,57178,48757,76821,135.25,-8421,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,8,August,28,68400
+2026-08-29,Jasmine (Girls Hostel),461,5.5,66000,0,66000,48757,50342,64415,139.73,1585,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,8,August,29,66000
+2026-08-30,Jasmine (Girls Hostel),493,6.6,79200,0,79200,50342,56208,73334,148.75,5866,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,8,August,30,79200
+2026-08-31,Jasmine (Girls Hostel),572,6.5,78000,0,78000,56208,58643,75565,132.11,2435,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,8,August,31,78000
+2026-09-01,Jasmine (Girls Hostel),571,6.4,76800,0,76800,58643,58392,77051,134.94,-251,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,1,76800
+2026-09-02,Jasmine (Girls Hostel),580,6.3,75600,0,75600,58392,56410,77582,133.76,-1982,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,2,75600
+2026-09-03,Jasmine (Girls Hostel),581,7.0,84000,0,84000,56410,55368,85042,146.37,-1042,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,3,84000
+2026-09-04,Jasmine (Girls Hostel),590,5.6,67200,0,67200,55368,45548,77020,130.54,-9820,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,4,67200
+2026-09-05,Jasmine (Girls Hostel),484,5.3,63600,0,63600,45548,40082,69066,142.7,-5466,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,5,63600
+2026-09-06,Jasmine (Girls Hostel),461,4.5,54000,12000,66000,40082,40050,66032,143.24,-32,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,6,66000
+2026-09-07,Jasmine (Girls Hostel),567,5.6,67200,12000,79200,40050,38200,81050,142.95,-1850,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,0,Monday,0,9,September,7,79200
+2026-09-08,Jasmine (Girls Hostel),583,5.9,70800,12000,82800,38200,42793,78207,134.15,4593,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,8,82800
+2026-09-09,Jasmine (Girls Hostel),592,7.2,86400,0,86400,42793,46051,83142,140.44,3258,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,9,86400
+2026-09-10,Jasmine (Girls Hostel),581,6.1,73200,0,73200,46051,40859,78392,134.93,-5192,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,10,73200
+2026-09-11,Jasmine (Girls Hostel),583,4.2,50400,24000,74400,40859,35747,79512,136.38,-5112,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,4,Friday,0,9,September,11,74400
+2026-09-12,Jasmine (Girls Hostel),502,3.8,45600,24000,69600,35747,33067,72280,143.98,-2680,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,12,69600
+2026-09-13,Jasmine (Girls Hostel),487,5.3,63600,12000,75600,33067,35686,72981,149.86,2619,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,13,75600
+2026-09-14,Jasmine (Girls Hostel),570,5.4,64800,12000,76800,35686,37305,75181,131.9,1619,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,0,Monday,0,9,September,14,76800
+2026-09-15,Jasmine (Girls Hostel),566,4.9,58800,12000,70800,37305,31368,76737,135.58,-5937,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,15,70800
+2026-09-16,Jasmine (Girls Hostel),578,5.7,68400,12000,80400,31368,32491,79277,137.16,1123,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,16,80400
+2026-09-17,Jasmine (Girls Hostel),585,5.1,61200,24000,85200,32491,35334,82357,140.78,2843,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,17,85200
+2026-09-18,Jasmine (Girls Hostel),572,5.0,60000,12000,72000,35334,30356,76978,134.58,-4978,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,4,Friday,0,9,September,18,72000
+2026-09-19,Jasmine (Girls Hostel),489,4.0,48000,24000,72000,30356,31250,71106,145.41,894,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,19,72000
+2026-09-20,Jasmine (Girls Hostel),460,3.0,36000,24000,60000,31250,26872,64378,139.95,-4378,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,20,60000
+2026-09-21,Jasmine (Girls Hostel),592,4.7,56400,24000,80400,26872,31640,75632,127.76,4768,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,0,Monday,0,9,September,21,80400
+2026-09-22,Jasmine (Girls Hostel),585,4.3,51600,24000,75600,31640,26288,80952,138.38,-5352,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,22,75600
+2026-09-23,Jasmine (Girls Hostel),566,5.8,69600,12000,81600,26288,32620,75268,132.98,6332,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,23,81600
+2026-09-24,Jasmine (Girls Hostel),582,6.1,73200,12000,85200,32620,43448,74372,127.79,10828,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,3,Thursday,0,9,September,24,85200
+2026-09-25,Jasmine (Girls Hostel),589,6.0,72000,0,72000,43448,33024,82424,139.94,-10424,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,9,September,25,72000
+2026-09-26,Jasmine (Girls Hostel),510,3.1,37200,24000,61200,33024,25222,69002,135.3,-7802,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,5,Saturday,1,9,September,26,61200
+2026-09-27,Jasmine (Girls Hostel),461,3.7,44400,24000,68400,25222,30324,63298,137.31,5102,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,6,Sunday,1,9,September,27,68400
+2026-09-28,Jasmine (Girls Hostel),582,4.8,57600,24000,81600,30324,35445,76479,131.41,5121,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,0,Monday,0,9,September,28,81600
+2026-09-29,Jasmine (Girls Hostel),576,4.0,48000,24000,72000,35445,31464,75981,131.91,-3981,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,1,Tuesday,0,9,September,29,72000
+2026-09-30,Jasmine (Girls Hostel),574,3.7,44400,24000,68400,31464,28491,71373,124.34,-2973,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,2,Wednesday,0,9,September,30,68400
+2026-10-01,Jasmine (Girls Hostel),588,5.8,69600,12000,81600,28491,25005,85086,144.7,-3486,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,1,81600
+2026-10-02,Jasmine (Girls Hostel),574,4.9,58800,24000,82800,25005,30765,77040,134.22,5760,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,4,Friday,0,10,October,2,82800
+2026-10-03,Jasmine (Girls Hostel),450,3.3,39600,24000,63600,30765,34248,60117,133.59,3483,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,3,63600
+2026-10-04,Jasmine (Girls Hostel),472,3.2,38400,24000,62400,34248,28678,67970,144.0,-5570,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,6,Sunday,1,10,October,4,62400
+2026-10-05,Jasmine (Girls Hostel),600,7.5,90000,12000,102000,28678,32764,97914,163.19,4086,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,0,Monday,0,10,October,5,102000
+2026-10-06,Jasmine (Girls Hostel),600,8.0,96000,12000,108000,32764,39190,101574,169.29,6426,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,6,108000
+2026-10-07,Jasmine (Girls Hostel),600,7.7,92400,12000,104400,39190,38358,105232,175.39,-832,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,7,104400
+2026-10-08,Jasmine (Girls Hostel),576,6.3,75600,12000,87600,38358,48906,77052,133.77,10548,0,No,No,0,Routine tanker augmentation due to storage drawdown,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,8,87600
+2026-10-09,Jasmine (Girls Hostel),578,6.9,82800,0,82800,48906,55143,76563,132.46,6237,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,10,October,9,82800
+2026-10-10,Jasmine (Girls Hostel),480,5.9,70800,0,70800,55143,54122,71821,149.63,-1021,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,10,70800
+2026-10-11,Jasmine (Girls Hostel),466,5.8,69600,0,69600,54122,60811,62911,135.0,6689,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,10,October,11,69600
+2026-10-12,Jasmine (Girls Hostel),571,5.4,64800,0,64800,60811,56560,69051,120.93,-4251,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,10,October,12,64800
+2026-10-13,Jasmine (Girls Hostel),592,5.7,68400,0,68400,56560,47146,77814,131.44,-9414,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,13,68400
+2026-10-14,Jasmine (Girls Hostel),120,3.6,43200,0,43200,47146,74450,15896,132.47,27304,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,14,43200
+2026-10-15,Jasmine (Girls Hostel),129,3.6,43200,0,43200,74450,101140,16510,127.98,26690,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,15,43200
+2026-10-16,Jasmine (Girls Hostel),133,4.0,48000,0,48000,101140,120000,17199,129.32,18860,0,Yes,No,11941,"Tank capacity reached; unmetered vacation overflow audited at 11,941 L",SYNTHETIC_SIMULATION,4,Friday,0,10,October,16,48000
+2026-10-17,Jasmine (Girls Hostel),131,3.2,38400,0,38400,120000,120000,18596,141.95,0,0,Yes,No,19804,"Tank capacity reached; unmetered vacation overflow audited at 19,804 L",SYNTHETIC_SIMULATION,5,Saturday,1,10,October,17,38400
+2026-10-18,Jasmine (Girls Hostel),127,3.4,40800,0,40800,120000,120000,18832,148.28,0,0,Yes,No,21968,"Tank capacity reached; unmetered vacation overflow audited at 21,968 L",SYNTHETIC_SIMULATION,6,Sunday,1,10,October,18,40800
+2026-10-19,Jasmine (Girls Hostel),132,3.6,43200,0,43200,120000,120000,17940,135.91,0,0,Yes,No,25260,"Tank capacity reached; unmetered vacation overflow audited at 25,260 L",SYNTHETIC_SIMULATION,0,Monday,0,10,October,19,43200
+2026-10-20,Jasmine (Girls Hostel),565,6.6,79200,0,79200,120000,119198,80002,141.6,-802,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,20,79200
+2026-10-21,Jasmine (Girls Hostel),588,5.7,68400,0,68400,119198,113987,73611,125.19,-5211,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,21,68400
+2026-10-22,Jasmine (Girls Hostel),589,7.2,86400,0,86400,113987,119197,81190,137.84,5210,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,10,October,22,86400
+2026-10-23,Jasmine (Girls Hostel),565,5.7,68400,0,68400,119197,112849,74748,132.3,-6348,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,10,October,23,68400
+2026-10-24,Jasmine (Girls Hostel),502,6.2,74400,0,74400,112849,116023,71226,141.88,3174,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,10,October,24,74400
+2026-10-25,Jasmine (Girls Hostel),482,4.9,58800,0,58800,116023,108593,66230,137.41,-7430,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,10,October,25,58800
+2026-10-26,Jasmine (Girls Hostel),576,6.4,76800,0,76800,108593,107552,77841,135.14,-1041,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,10,October,26,76800
+2026-10-27,Jasmine (Girls Hostel),578,6.6,79200,0,79200,107552,111261,75491,130.61,3709,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,10,October,27,79200
+2026-10-28,Jasmine (Girls Hostel),585,6.0,72000,0,72000,111261,105967,77294,132.13,-5294,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,10,October,28,72000
+2026-10-29,Jasmine (Girls Hostel),590,8.1,97200,0,97200,105967,107607,88560,150.1,1640,0,No,Yes,7000,"Subsurface pipe fracture; loss precisely audited at 7,000 L",SYNTHETIC_SIMULATION,3,Thursday,0,10,October,29,97200
+2026-10-30,Jasmine (Girls Hostel),575,8.0,96000,0,96000,107607,107619,88988,154.76,12,0,No,Yes,7000,"Subsurface pipe fracture; loss precisely audited at 7,000 L",SYNTHETIC_SIMULATION,4,Friday,0,10,October,30,96000
+2026-10-31,Jasmine (Girls Hostel),502,7.5,90000,0,90000,107619,102402,88217,175.73,-5217,0,No,Yes,7000,"Subsurface pipe fracture; loss precisely audited at 7,000 L",SYNTHETIC_SIMULATION,5,Saturday,1,10,October,31,90000
+2026-11-01,Jasmine (Girls Hostel),454,4.4,52800,0,52800,102402,94902,60300,132.82,-7500,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,11,November,1,52800
+2026-11-02,Jasmine (Girls Hostel),594,6.2,74400,0,74400,94902,90364,78938,132.89,-4538,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,11,November,2,74400
+2026-11-03,Jasmine (Girls Hostel),567,5.4,64800,0,64800,90364,83593,71571,126.23,-6771,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,11,November,3,64800
+2026-11-04,Jasmine (Girls Hostel),577,5.4,64800,0,64800,83593,73802,74591,129.27,-9791,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,2,Wednesday,0,11,November,4,64800
+2026-11-05,Jasmine (Girls Hostel),565,6.0,72000,0,72000,73802,69984,75818,134.19,-3818,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,3,Thursday,0,11,November,5,72000
+2026-11-06,Jasmine (Girls Hostel),575,6.9,82800,0,82800,69984,74150,78634,136.75,4166,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,4,Friday,0,11,November,6,82800
+2026-11-07,Jasmine (Girls Hostel),484,5.5,66000,0,66000,74150,70954,69196,142.97,-3196,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,5,Saturday,1,11,November,7,66000
+2026-11-08,Jasmine (Girls Hostel),455,5.2,62400,0,62400,70954,66131,67223,147.74,-4823,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,6,Sunday,1,11,November,8,62400
+2026-11-09,Jasmine (Girls Hostel),571,6.3,75600,0,75600,66131,64433,77298,135.37,-1698,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,0,Monday,0,11,November,9,75600
+2026-11-10,Jasmine (Girls Hostel),578,6.7,80400,0,80400,64433,68014,76819,132.9,3581,0,No,No,0,Normal daily operation,SYNTHETIC_SIMULATION,1,Tuesday,0,11,November,10,80400
